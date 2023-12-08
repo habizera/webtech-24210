@@ -104,6 +104,11 @@
 			<artifactId>spring-context-support</artifactId>
 			<version>5.2.2.RELEASE</version>
 		</dependency>
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<scope>runtime</scope>
+		</dependency>
 
 	</dependencies>
 	<repositories>
